@@ -1,0 +1,17 @@
+# Ignore datasets
+GTSRB/
+GTSRB.zip
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Conda and environment files
+.conda/
+.env
+*.h5
+*.pth
+
+# Jupyter outputs
+output/
