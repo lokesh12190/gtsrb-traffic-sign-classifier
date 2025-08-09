@@ -2,10 +2,10 @@
 
 ## Overview
 
-In modern road safety systems, the ability for a machine to quickly and accurately recognize traffic signs is more than a convenience — it’s a necessity.  
+In modern road safety systems, the ability for a machine to quickly and accurately recognize traffic signs is more than a convenience. it’s a necessity.  
 Whether it’s **Advanced Driver Assistance Systems (ADAS)** or fully **autonomous vehicles**, traffic sign recognition allows vehicles to obey speed limits, follow road directions, and react to warnings in real time.  
 
-This project tackles exactly that challenge using the **German Traffic Sign Recognition Benchmark (GTSRB)** — a well-known dataset containing 43 different types of traffic signs, collected from real-world driving conditions.  
+This project tackles exactly that challenge using the **German Traffic Sign Recognition Benchmark (GTSRB)**  a well-known dataset containing 43 different types of traffic signs, collected from real-world driving conditions.  
 The signs vary in **size, lighting, rotation, and occlusion**, making the dataset a realistic and challenging benchmark.
 
 ---
@@ -37,7 +37,7 @@ To ensure every experiment was tracked and reproducible, I integrated **Weights 
 - Save model checkpoints
 - Compare different hyperparameter runs
 
-I also performed **parameter tuning** — adjusting batch size, learning rate, augmentation settings, and number of epochs to squeeze out every bit of accuracy without overfitting.
+I also performed **parameter tuning**  adjusting batch size, learning rate, augmentation settings, and number of epochs to squeeze out every bit of accuracy without overfitting.
 
 ---
 
