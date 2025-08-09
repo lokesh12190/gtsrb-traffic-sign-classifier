@@ -1,4 +1,4 @@
-# Traffic Sign Recognition for ADAS using EfficientNetB0 & Weights & Biases
+# Traffic Sign Recognition and classification  for ADAS using Transfer Learning 
 
 ## Overview
 
