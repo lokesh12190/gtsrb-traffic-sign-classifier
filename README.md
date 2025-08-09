@@ -53,18 +53,6 @@ It can reliably distinguish between all 43 traffic sign categories, even in chal
 
 ---
 
-## Example Classification Results
-
-Here are some example outputs from the trained model:
-
-![Example Predictions](logs/example_predictions.png)  
-*Sample classification results with model predictions and true labels.*
-
-![Confusion Matrix](logs/confusion_matrix.png)  
-*Confusion matrix showing near-perfect classification across all classes.*
-
----
-
 ## Repository Guide
 
 - **`data/`** – Information about the dataset, its types, and how to access it. *(Dataset files are not stored in the repo due to size.)*  
