@@ -1,0 +1,34 @@
+## About the Dataset
+
+The dataset used in this project is the **German Traffic Sign Recognition Benchmark (GTSRB)** — a well-known multi-class image classification benchmark in the field of **Advanced Driver Assistance Systems (ADAS)** and autonomous driving.  
+It was first introduced at the **International Joint Conference on Neural Networks (IJCNN) 2011**.
+
+**Source:**
+- Public archive ID: `daaeac0d7ce1152aea9b61d9f1e19370`
+- Created by: Christian Igel (DIKU), Johannes Stallkamp, Marc Schlipsing, Jan Salmen
+- Archive link: [GTSRB dataset archive](https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html)
+- Dataset info: [Official GTSRB overview](https://benchmark.ini.rub.de/gtsrb_dataset.html#Overview)
+
+**Contents:**
+- **43 traffic sign classes**, including speed limits, warnings, and direction signs.
+- Real-world images taken under varying conditions (lighting, occlusion, rotation, etc.).
+- **Official training set** with images and annotations.
+- **Official test set** with images, plus extended ground-truth labels.
+- Additional feature files (HOG, Haar-like, hue histograms) — *not used in this project*.
+
+
+**Citation request from dataset authors:**
+> The data is free to use. However, we cordially ask you to cite the following publication if you do:
+>
+> J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. *The German Traffic Sign Recognition Benchmark: A multi-class classification competition.* In Proceedings of the IEEE International Joint Conference on Neural Networks, pages 1453–1460. 2011.
+>
+> ```
+> @inproceedings{Stallkamp-IJCNN-2011,
+>     author = {Johannes Stallkamp and Marc Schlipsing and Jan Salmen and Christian Igel},
+>     booktitle = {IEEE International Joint Conference on Neural Networks},
+>     title = {The {G}erman {T}raffic {S}ign {R}ecognition {B}enchmark: A multi-class classification competition},
+>     year = {2011},
+>     pages = {1453--1460}
+> }
+> ```
+   
